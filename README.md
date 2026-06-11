@@ -11,8 +11,8 @@ This repository contains a full-stack AI-powered resume builder (React + Node/Ex
 
 ## Repo layout
 
-- `client/` — React frontend (Vite)
-- `server/` — Express backend (Node.js)
+- `client/` - React frontend (Vite)
+- `server/` - Express backend (Node.js)
 
 ## Prerequisites
 
